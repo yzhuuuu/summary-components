@@ -92,7 +92,7 @@ body {
 .bar {
   display: flex;
   align-items: center;
-  justify-items: center;
+  justify-content: space-between;
   gap: 9rem;
   margin-bottom: 1rem;
   padding: 1rem;
